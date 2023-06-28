@@ -14,3 +14,8 @@ https://courses.cognitiveclass.ai/certificates/a0bc609bdef741999e68761bb4d87cc8
 
 Data Manipulation in Python: Master Python, Numpy & Pandas
 https://www.udemy.com/certificate/UC-8b447212-52b7-4935-851f-4e1495da424e/
+
+TO DO
+https://www.udemy.com/cart/success/937867428/
+https://www.udemy.com/cart/success/937867402/
+https://www.udemy.com/cart/success/937868796/
