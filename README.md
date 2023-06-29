@@ -19,3 +19,4 @@ TO DO
 https://www.udemy.com/cart/success/937867428/
 https://www.udemy.com/cart/success/937867402/
 https://www.udemy.com/cart/success/937868796/
+https://www.udemy.com/course/data-analyst-bootcamp/
