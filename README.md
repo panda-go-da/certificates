@@ -10,6 +10,9 @@ https://www.udemy.com/certificate/UC-8b447212-52b7-4935-851f-4e1495da424e/
 Kaggle learning Python course
 https://www.kaggle.com/learn/certification/radmiribragimov/python
 
+Kaggle learning Pandas course
+https://www.kaggle.com/learn/certification/radmiribragimov/pandas
+
 # 2022
 
 Data Analysis with Python (DA0101EN, provided by IBM)
