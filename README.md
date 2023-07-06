@@ -13,6 +13,9 @@ https://www.kaggle.com/learn/certification/radmiribragimov/python
 Kaggle learning Pandas course
 https://www.kaggle.com/learn/certification/radmiribragimov/pandas
 
+Kaggle learning Data Visualization course
+https://www.kaggle.com/learn/certification/radmiribragimov/data-visualization
+
 # 2022
 
 Data Analysis with Python (DA0101EN, provided by IBM)
@@ -25,4 +28,5 @@ Docker Essentials: A Developer Introduction (CO0101EN, provided by IBM)
 https://courses.cognitiveclass.ai/certificates/a0bc609bdef741999e68761bb4d87cc8
 
 # TO DO
-https://www.udemy.com/course/data-analyst-bootcamp/
+Data Science Methodology IBM DS0103EN
+https://apps.cognitiveclass.ai/learning/course/course-v1:CognitiveClass+DS0103EN+v3/home
