@@ -16,6 +16,9 @@ https://www.kaggle.com/learn/certification/radmiribragimov/pandas
 Kaggle learning Data Visualization course
 https://www.kaggle.com/learn/certification/radmiribragimov/data-visualization
 
+Kaggle Intro to Machine Learning course
+https://www.kaggle.com/learn/certification/radmiribragimov/intro-to-machine-learning
+
 # 2022
 
 Data Analysis with Python (DA0101EN, provided by IBM)
