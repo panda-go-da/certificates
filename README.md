@@ -19,6 +19,12 @@ https://www.kaggle.com/learn/certification/radmiribragimov/data-visualization
 Kaggle Intro to Machine Learning course
 https://www.kaggle.com/learn/certification/radmiribragimov/intro-to-machine-learning
 
+Kaggle Data cleaning Learning course
+https://www.kaggle.com/learn/certification/radmiribragimov/data-cleaning
+
+Kaggle Feature Engineering Learning course
+https://www.kaggle.com/learn/certification/radmiribragimov/feature-engineering
+
 # 2022
 
 Data Analysis with Python (DA0101EN, provided by IBM)
