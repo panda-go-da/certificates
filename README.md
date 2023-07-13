@@ -25,6 +25,9 @@ https://www.kaggle.com/learn/certification/radmiribragimov/data-cleaning
 Kaggle Feature Engineering Learning course
 https://www.kaggle.com/learn/certification/radmiribragimov/feature-engineering
 
+Data Science Methodology DS0103EN
+https://courses.cognitiveclass.ai/certificates/4a95d32b316a46f499fb927129bb05a7
+
 # 2022
 
 Data Analysis with Python (DA0101EN, provided by IBM)
