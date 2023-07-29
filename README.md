@@ -31,6 +31,9 @@ https://courses.cognitiveclass.ai/certificates/4a95d32b316a46f499fb927129bb05a7
 Kaggle Intermediate Machine Learning
 https://www.kaggle.com/learn/certification/radmiribragimov/intermediate-machine-learning
 
+Kaggle Machine Learning Explainability
+https://www.kaggle.com/learn/certification/radmiribragimov/machine-learning-explainability
+
 # 2022
 
 Data Analysis with Python (DA0101EN, provided by IBM)
